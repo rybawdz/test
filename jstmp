@@ -1,0 +1,44 @@
+user columns:
+- lastLoginIp
+- profileImage
+- totpSecret
+- isActive
+- createdAt
+- updatedAt
+- deletedAt
+- id
+- username
+- email
+- password
+- role
+- deluxeToken
+
+Tables in db:
+- Wallets
+- Users
+- SecurityQuestions
+- SecurityAnswers
+- Recycles
+- Qunatities
+- Products
+- PrivacyRequests
+- Memories
+- ImageCaptchas
+- Feedbacks
+- Deliveries
+- Complaints
+- Challenges
+- Cards
+- Captchas
+- Baskets
+- BasketItems
+- Addresses
+
+
+Bender credentials:
+email: bender@juice-sh.op
+password: 0c36e517e3fa95aabf1bbffc6744a4ef
+
+Jim credentials:
+email: jim@juice-sh.op
+password: e541ca7ecf72b8d1286474fc613e5e45
